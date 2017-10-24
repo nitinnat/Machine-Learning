@@ -3,7 +3,7 @@
 
 """
 Version: Python 3.5
-Authors: Nitin Nataraj (50246850), Arun Krishnamurthy (50247445)
+
 
 """
 
